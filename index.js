@@ -9,7 +9,7 @@ let myserver = myhttp.createServer((req, res) => {
     <head>
       <style>
         body {
-          font-family: Arial, sans-serif;
+          font-family: "Comic Sans MS", cursive;
           background-color: #f4f4f4;
           text-align: center;
         }
